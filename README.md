@@ -1,5 +1,10 @@
 # AFCTNLR
+
+## Citation
+
 If you find this code useful in your research, please cite the following paper:
+
+```bibtex
 @article{Xie2026AFCTNLR,
   title   = {Accelerated FCTN with perturbed periodic second-order
              discrete difference regularization for tensor completion},
@@ -11,3 +16,4 @@ If you find this code useful in your research, please cite the following paper:
   year    = {2026},
   doi     = {10.1016/j.cnsns.2026.110568}
 }
+```
